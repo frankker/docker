@@ -9,7 +9,7 @@ public class MainController {
 	@RequestMapping("/")
 	public String mainPage(){
 		
-		return "Hello World! 2";
+		return "Hello World! A nice day!";
 		
 	}
 }
